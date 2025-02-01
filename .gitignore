@@ -1,0 +1,36 @@
+# Node.js
+node_modules/
+dist/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Logs
+logs
+*.log
+*.log.*
+.pnpm-debug.log*
+
+# Environment
+.env
+.env.*.local
+
+# IDE и редакторы
+.vscode/
+.idea/
+.DS_Store
+
+# TypeScript
+*.tsbuildinfo
+
+# React (frontend)
+build/
+*.cache/
+
+# Сборка и временные файлы
+coverage/
+.tmp/
+out/
+
+# Git
+*.lock
