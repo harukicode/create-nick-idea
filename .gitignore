@@ -34,3 +34,6 @@ out/
 
 # Git
 *.lock
+.yaml
+backend/pnpm-lock.yaml
+frontend/pnpm-lock.yaml
